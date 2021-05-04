@@ -12,4 +12,5 @@ Some useful labels are provided to tag issues with. Use them!
 * The "documentation" label can be used to track issues / inconsistencies with the official documentation. Keep in mind that these are not very important, because the documentation will likely be entirely redone and unofficial versions exist.
 * The "enhancement" and "bug" labels are self-explanatory, new features for / extensions to the API are enhancements, while functions with certain broken arguments or unintended behavior are bugs.
 * The "repentance" label marks that an issue only applies to the Repentance version of the API
+* The "fixed in patch" label marks that an issue has been fixed in an upcoming patch. When the patch comes out, the issue will be closed. If an issue is found to not actually be fixed, it should be reopened and have this label removed.
 * The "meta" label is for suggestions for / problems with the issue tracker itself.
