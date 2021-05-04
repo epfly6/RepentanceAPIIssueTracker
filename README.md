@@ -5,7 +5,7 @@ This repository exists purely to use the issue tracker, and does not host code o
 
 ## Labels
 
-Some useful labels are provided to tag issues with. Use them!
+Some useful labels are provided to tag issues with. They'll be added to issues as they are made.
 
 * The "xml", "lua", and "resources" labels can be used to tag whether the issue is with modifying / extending xml files, the lua API, or with modifying other game resources, like graphics and stbs.
 * The "broken function" label can be used to tag methods and variables that are exposed by the API, but do not work in any way at all. There are a lot of these, so it's useful to be able to separate them.
