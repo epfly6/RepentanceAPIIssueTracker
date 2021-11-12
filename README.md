@@ -3,7 +3,8 @@ An unofficial issue tracker for issues with The Binding of Isaac: Repentance's A
 
 This repository exists purely to use the issue tracker, and does not host code of its own, excepting examples and test cases.
 
-Non-modding/API related issues should be submitted here instead: 
+Non-modding/API related issues should be submitted here instead:
+
 https://github.com/UnderscoreKilburn/repentance-issues
 
 ## Labels
